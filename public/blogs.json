@@ -1,0 +1,54 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/rsRLWb5/gradient-trekking-facebook-cover-template-23-2149247100.jpg",
+      "title": "The Enigmatic Journey",
+      "author": "Victoria W. Harper",
+      "author_img": "https://i.ibb.co/M6TfL6W/dp.png",
+      "posted_date": "May 5, 2023",
+      "reading_time": "12",
+      "hashtags": ["#mystery", "#adventure", "#fiction"]
+    },
+    {
+      "id": "987654",
+      "cover": "https://i.ibb.co/ZXHnv6J/flat-travel-facebook-cover-23-2149022254.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Benjamin J. Fitzgerald",
+      "author_img": "https://i.ibb.co/wLXS0Ws/my-image.png",
+      "posted_date": "Aug 20, 2023",
+      "reading_time": "8",
+      "hashtags": ["#fantasy", "#magic", "#quest"]
+    },
+    {
+      "id": "456789",
+      "cover": "https://i.ibb.co/rsRLWb5/gradient-trekking-facebook-cover-template-23-2149247100.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Samantha R. Lawson",
+      "author_img": "https://i.ibb.co/SBH3vPQ/IMG-58560.jpg",
+      "posted_date": "Oct 1, 2023",
+      "reading_time": "15",
+      "hashtags": ["#sci-fi", "#exploration", "#future"]
+    },
+    {
+      "id": "246810",
+      "cover": "https://i.ibb.co/ZXHnv6J/flat-travel-facebook-cover-23-2149022254.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Alexander K. Patel",
+      "author_img": "https://i.ibb.co/F63R1TX/IMG-5933.jpg",
+      "posted_date": "Dec 15, 2023",
+      "reading_time": "10",
+      "hashtags": ["#romance", "#mystery", "#suspense"]
+    },
+    {
+      "id": "135791",
+      "cover": "https://i.ibb.co/rsRLWb5/gradient-trekking-facebook-cover-template-23-2149247100.jpg",
+      "title": "Luminary Dreams",
+      "author": "Emily G. Sanchez",
+      "author_img": "https://i.ibb.co/Btg3gqT/IMG-5898.jpg",
+      "posted_date": "Feb 10, 2023",
+      "reading_time": "20",
+      "sashtags": ["#poetry", "#inspiration", "#dreams"]
+    }
+    
+  ]
+  
